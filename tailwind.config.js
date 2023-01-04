@@ -10,6 +10,9 @@ module.exports = {
         "black-rgba": "rgba(0, 0, 0, 0.3)",
       },
     },
+    fontFamily: {
+      "roboto-slab": ["Helvetica", "Arial", "serif"],
+    },
   },
   plugins: [],
 }
