@@ -4,7 +4,7 @@ function banner() {
   return (
     <div className="flex h-[calc(100vh-64px)] flex-wrap">
       <div className="flex items-center text-black lg:w-2/5 text-7xl py-1.5 px-6 relative z-10 w-full h-full bg-black-rgba lg:bg-transparent">
-        <h1 className="max-w-xl my-0 lg:mx-auto text-white lg:text-black ml-0">
+        <h1 className="md:max-w-xl max-w-md my-0 lg:mx-auto text-white lg:text-black ml-0 text-5xl md:text-7xl">
           Welcome to Metaverse World
         </h1>
       </div>
